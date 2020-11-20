@@ -29,8 +29,8 @@ function App() {
       {/* <CounterOne/> */}
       {/* <CounterTwo/> */}
       {/* <CounterThree/> */}
-      {/* <DataFetchingOne/> */}
-      {/* <DataFetchingTwo/> */}
+      <DataFetchingOne/> */
+      {/* <DataFetchingTwo/>
       {/* <ParentComponent/> */}
       <Counter/>
 
